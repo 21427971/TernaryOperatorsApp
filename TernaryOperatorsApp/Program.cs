@@ -19,7 +19,7 @@ namespace TernaryOperatorsApp
 
             //Second
             int pepperLength = 2;
-            string message = (pepperLength >= 3.5) ? "ready!" : "wait a little longer";
+            string message = (pepperLength >= 3.5) ? "Ready!" : "Wait a little longer";
 
             Console.WriteLine(message);
         }
